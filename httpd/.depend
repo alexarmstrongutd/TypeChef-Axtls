@@ -1,0 +1,20 @@
+htpasswd.o: htpasswd.c ../ssl/os_port.h ../crypto/os_int.h \
+ ../config/config.h ../ssl/ssl.h ../ssl/tls1.h ../ssl/version.h \
+ ../ssl/os_port.h ../crypto/crypto.h ../crypto/bigint_impl.h \
+ ../crypto/bigint.h ../crypto/crypto.h ../ssl/crypto_misc.h \
+ ../crypto/bigint.h
+tdate_parse.o: tdate_parse.c axhttp.h ../ssl/os_port.h ../crypto/os_int.h \
+ ../config/config.h ../ssl/ssl.h ../ssl/tls1.h ../ssl/version.h \
+ ../ssl/os_port.h ../crypto/crypto.h ../crypto/bigint_impl.h \
+ ../crypto/bigint.h ../crypto/crypto.h ../ssl/crypto_misc.h \
+ ../crypto/bigint.h
+proc.o: proc.c axhttp.h ../ssl/os_port.h ../crypto/os_int.h \
+ ../config/config.h ../ssl/ssl.h ../ssl/tls1.h ../ssl/version.h \
+ ../ssl/os_port.h ../crypto/crypto.h ../crypto/bigint_impl.h \
+ ../crypto/bigint.h ../crypto/crypto.h ../ssl/crypto_misc.h \
+ ../crypto/bigint.h
+axhttpd.o: axhttpd.c axhttp.h ../ssl/os_port.h ../crypto/os_int.h \
+ ../config/config.h ../ssl/ssl.h ../ssl/tls1.h ../ssl/version.h \
+ ../ssl/os_port.h ../crypto/crypto.h ../crypto/bigint_impl.h \
+ ../crypto/bigint.h ../crypto/crypto.h ../ssl/crypto_misc.h \
+ ../crypto/bigint.h

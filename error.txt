@@ -1,0 +1,81 @@
+May 05, 2020 7:40:14 AM de.fosd.typechef.lexer.PreprocessorListener print
+SEVERE: /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/isapi/isapi_lib.c:8:0: error: File not found: windows.h in /home/temoc/axtls-code1 /home/temoc/TypeChef-GNUCHeader/usr_include /home/temoc/axtls-code1/ssl /home/temoc/axtls-code1/crypto /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/mod2 /home/temoc/axtls-code1/httpd/kepler-1.1/luasql/vc6 /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/fastcgi /home/temoc/axtls-code1/httpd /home/temoc/axtls-code1/httpd/kepler-1.1/lua-5.1.2/src /home/temoc/axtls-code1/httpd/kepler-1.1/luasocket-2.0.1/src/compat-5.1r5 /home/temoc/axtls-code1/httpd/kepler-1.1/luazip/vc6 /home/temoc/axtls-code1/httpd/kepler-1.1/luafilesystem/src /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/isapi /home/temoc/axtls-code1/httpd/kepler-1.1/luasocket-2.0.1/src /home/temoc/axtls-code1/config/scripts/config /home/temoc/axtls-code1/httpd/kepler-1.1/luaexpat/src /home/temoc/axtls-code1/httpd/kepler-1.1/luazip/src /home/temoc/axtls-code1/httpd/kepler-1.1/luazip/vc7 /home/temoc/axtls-code1/httpd/kepler-1.1/luasql/src /home/temoc/axtls-code1/httpd/kepler-1.1/md5/src /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/XavanteTray /home/temoc/axtls-code1/config/scripts/config/lxdialog /home/temoc/TypeChef-GNUCHeader/x86_64-linux-gnu/4.8/include /home/temoc/TypeChef-GNUCHeader/x86_64-linux-gnu/4.8/include-fixed /home/temoc/TypeChef-GNUCHeader/x86_64-linux-gnu /home/temoc/TypeChef-GNUCHeader/perl-5.30.2 /home/temoc/TypeChef-GNUCHeader/httpd-2.4.43/include /home/temoc/TypeChef-GNUCHeader/apr-1.7.0/include /home/temoc/TypeChef-GNUCHeader/apr-util-1.6.1/include /home/temoc/TypeChef-GNUCHeader/httpd-2.4.43/os/unix /home/temoc/TypeChef-GNUCHeader/usr_include2 /home/temoc/TypeChef-GNUCHeader/usr_include2/mysql /home/temoc/TypeChef-GNUCHeader/usr_include2/oracle/19.6/client /home/temoc/TypeChef-GNUCHeader/usr_include2/postgresql /home/temoc/TypeChef-GNUCHeader/local_include //usr/include; condition: True
+/home/temoc/axtls-code1/httpd/kepler-1.1/launcher/isapi/isapi_lib.c:8:0: error: File not found: windows.h in /home/temoc/axtls-code1 /home/temoc/TypeChef-GNUCHeader/usr_include /home/temoc/axtls-code1/ssl /home/temoc/axtls-code1/crypto /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/mod2 /home/temoc/axtls-code1/httpd/kepler-1.1/luasql/vc6 /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/fastcgi /home/temoc/axtls-code1/httpd /home/temoc/axtls-code1/httpd/kepler-1.1/lua-5.1.2/src /home/temoc/axtls-code1/httpd/kepler-1.1/luasocket-2.0.1/src/compat-5.1r5 /home/temoc/axtls-code1/httpd/kepler-1.1/luazip/vc6 /home/temoc/axtls-code1/httpd/kepler-1.1/luafilesystem/src /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/isapi /home/temoc/axtls-code1/httpd/kepler-1.1/luasocket-2.0.1/src /home/temoc/axtls-code1/config/scripts/config /home/temoc/axtls-code1/httpd/kepler-1.1/luaexpat/src /home/temoc/axtls-code1/httpd/kepler-1.1/luazip/src /home/temoc/axtls-code1/httpd/kepler-1.1/luazip/vc7 /home/temoc/axtls-code1/httpd/kepler-1.1/luasql/src /home/temoc/axtls-code1/httpd/kepler-1.1/md5/src /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/XavanteTray /home/temoc/axtls-code1/config/scripts/config/lxdialog /home/temoc/TypeChef-GNUCHeader/x86_64-linux-gnu/4.8/include /home/temoc/TypeChef-GNUCHeader/x86_64-linux-gnu/4.8/include-fixed /home/temoc/TypeChef-GNUCHeader/x86_64-linux-gnu /home/temoc/TypeChef-GNUCHeader/perl-5.30.2 /home/temoc/TypeChef-GNUCHeader/httpd-2.4.43/include /home/temoc/TypeChef-GNUCHeader/apr-1.7.0/include /home/temoc/TypeChef-GNUCHeader/apr-util-1.6.1/include /home/temoc/TypeChef-GNUCHeader/httpd-2.4.43/os/unix /home/temoc/TypeChef-GNUCHeader/usr_include2 /home/temoc/TypeChef-GNUCHeader/usr_include2/mysql /home/temoc/TypeChef-GNUCHeader/usr_include2/oracle/19.6/client /home/temoc/TypeChef-GNUCHeader/usr_include2/postgresql /home/temoc/TypeChef-GNUCHeader/local_include //usr/include; condition: True
+May 05, 2020 7:40:14 AM de.fosd.typechef.lexer.LexerFrontend run
+SEVERE: de.fosd.typechef.lexer.LexerException: Lexer exception in all configurations. Quitting.
+de.fosd.typechef.lexer.LexerException: Lexer exception in all configurations. Quitting.
+	at de.fosd.typechef.lexer.PreprocessorListener.handleError(PreprocessorListener.java:120)
+	at de.fosd.typechef.lexer.Preprocessor.error(Preprocessor.java:335)
+	at de.fosd.typechef.lexer.Preprocessor.error(Preprocessor.java:321)
+	at de.fosd.typechef.lexer.Preprocessor.include(Preprocessor.java:1612)
+	at de.fosd.typechef.lexer.Preprocessor.parse_include(Preprocessor.java:1702)
+	at de.fosd.typechef.lexer.Preprocessor.parse_main(Preprocessor.java:2561)
+	at de.fosd.typechef.lexer.Preprocessor.getNextToken(Preprocessor.java:2752)
+	at de.fosd.typechef.lexer.Preprocessor.getNextToken(Preprocessor.java:97)
+	at de.fosd.typechef.lexer.LexerFrontend.run(LexerFrontend.java:178)
+	at de.fosd.typechef.lexer.LexerFrontend.run(LexerFrontend.java:107)
+	at de.fosd.typechef.Frontend$.lex(Frontend.scala:367)
+	at de.fosd.typechef.Frontend$.processFile(Frontend.scala:92)
+	at de.fosd.typechef.Frontend$.main(Frontend.scala:44)
+	at de.fosd.typechef.Frontend.main(Frontend.scala)
+ -> file /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/isapi/isapi_lib.c
+Exception in thread "main" java.lang.AssertionError: assertion failed: ast should not be null
+	at de.fosd.typechef.parser.c.EnforceTreeHelper$class.prepareAST(EnforceTreeHelper.scala:38)
+	at de.fosd.typechef.Frontend$.prepareAST(Frontend.scala:17)
+	at de.fosd.typechef.Frontend$.processFile(Frontend.scala:104)
+	at de.fosd.typechef.Frontend$.main(Frontend.scala:44)
+	at de.fosd.typechef.Frontend.main(Frontend.scala)
+May 05, 2020 7:45:51 AM de.fosd.typechef.lexer.PreprocessorListener print
+WARNING: /home/temoc/TypeChef-GNUCHeader/usr_include/stdio.h:673:19: warning: macro getline has 2 parameters (variadic: false) for expansion under condition True but given 3 args
+/home/temoc/TypeChef-GNUCHeader/usr_include/stdio.h:673:19: warning: macro getline has 2 parameters (variadic: false) for expansion under condition True but given 3 args
+Exception in thread "main" java.lang.AssertionError: assertion failed: ast should not be null
+	at de.fosd.typechef.parser.c.EnforceTreeHelper$class.prepareAST(EnforceTreeHelper.scala:38)
+	at de.fosd.typechef.Frontend$.prepareAST(Frontend.scala:17)
+	at de.fosd.typechef.Frontend$.processFile(Frontend.scala:104)
+	at de.fosd.typechef.Frontend$.main(Frontend.scala:44)
+	at de.fosd.typechef.Frontend.main(Frontend.scala)
+Exception in thread "main" java.lang.AssertionError: assertion failed: ast should not be null
+	at de.fosd.typechef.parser.c.EnforceTreeHelper$class.prepareAST(EnforceTreeHelper.scala:38)
+	at de.fosd.typechef.Frontend$.prepareAST(Frontend.scala:17)
+	at de.fosd.typechef.Frontend$.processFile(Frontend.scala:104)
+	at de.fosd.typechef.Frontend$.main(Frontend.scala:44)
+	at de.fosd.typechef.Frontend.main(Frontend.scala)
+Exception in thread "main" java.lang.AssertionError: assertion failed: ast should not be null
+	at de.fosd.typechef.parser.c.EnforceTreeHelper$class.prepareAST(EnforceTreeHelper.scala:38)
+	at de.fosd.typechef.Frontend$.prepareAST(Frontend.scala:17)
+	at de.fosd.typechef.Frontend$.processFile(Frontend.scala:104)
+	at de.fosd.typechef.Frontend$.main(Frontend.scala:44)
+	at de.fosd.typechef.Frontend.main(Frontend.scala)
+Exception in thread "main" java.lang.AssertionError: assertion failed: ast should not be null
+	at de.fosd.typechef.parser.c.EnforceTreeHelper$class.prepareAST(EnforceTreeHelper.scala:38)
+	at de.fosd.typechef.Frontend$.prepareAST(Frontend.scala:17)
+	at de.fosd.typechef.Frontend$.processFile(Frontend.scala:104)
+	at de.fosd.typechef.Frontend$.main(Frontend.scala:44)
+	at de.fosd.typechef.Frontend.main(Frontend.scala)
+Exception in thread "main" java.lang.AssertionError: assertion failed: ast should not be null
+	at de.fosd.typechef.parser.c.EnforceTreeHelper$class.prepareAST(EnforceTreeHelper.scala:38)
+	at de.fosd.typechef.Frontend$.prepareAST(Frontend.scala:17)
+	at de.fosd.typechef.Frontend$.processFile(Frontend.scala:104)
+	at de.fosd.typechef.Frontend$.main(Frontend.scala:44)
+	at de.fosd.typechef.Frontend.main(Frontend.scala)
+Exception in thread "main" java.lang.AssertionError: assertion failed: ast should not be null
+	at de.fosd.typechef.parser.c.EnforceTreeHelper$class.prepareAST(EnforceTreeHelper.scala:38)
+	at de.fosd.typechef.Frontend$.prepareAST(Frontend.scala:17)
+	at de.fosd.typechef.Frontend$.processFile(Frontend.scala:104)
+	at de.fosd.typechef.Frontend$.main(Frontend.scala:44)
+	at de.fosd.typechef.Frontend.main(Frontend.scala)
+Exception in thread "main" java.lang.AssertionError: assertion failed: ast should not be null
+	at de.fosd.typechef.parser.c.EnforceTreeHelper$class.prepareAST(EnforceTreeHelper.scala:38)
+	at de.fosd.typechef.Frontend$.prepareAST(Frontend.scala:17)
+	at de.fosd.typechef.Frontend$.processFile(Frontend.scala:104)
+	at de.fosd.typechef.Frontend$.main(Frontend.scala:44)
+	at de.fosd.typechef.Frontend.main(Frontend.scala)
+Exception in thread "main" java.lang.AssertionError: assertion failed: ast should not be null
+	at de.fosd.typechef.parser.c.EnforceTreeHelper$class.prepareAST(EnforceTreeHelper.scala:38)
+	at de.fosd.typechef.Frontend$.prepareAST(Frontend.scala:17)
+	at de.fosd.typechef.Frontend$.processFile(Frontend.scala:104)
+	at de.fosd.typechef.Frontend$.main(Frontend.scala:44)
+	at de.fosd.typechef.Frontend.main(Frontend.scala)
+May 05, 2020 7:52:29 AM de.fosd.typechef.lexer.PreprocessorListener print
+SEVERE: /home/temoc/axtls-code1/crypto/crypto_misc.c:42:0: error: File not found: wincrypt.h in .(/home/temoc/axtls-code1/crypto) /home/temoc/axtls-code1 /home/temoc/TypeChef-GNUCHeader/usr_include /home/temoc/axtls-code1/ssl /home/temoc/axtls-code1/crypto /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/mod2 /home/temoc/axtls-code1/httpd/kepler-1.1/luasql/vc6 /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/fastcgi /home/temoc/axtls-code1/httpd /home/temoc/axtls-code1/httpd/kepler-1.1/lua-5.1.2/src /home/temoc/axtls-code1/httpd/kepler-1.1/luasocket-2.0.1/src/compat-5.1r5 /home/temoc/axtls-code1/httpd/kepler-1.1/luazip/vc6 /home/temoc/axtls-code1/httpd/kepler-1.1/luafilesystem/src /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/isapi /home/temoc/axtls-code1/httpd/kepler-1.1/luasocket-2.0.1/src /home/temoc/axtls-code1/config/scripts/config /home/temoc/axtls-code1/httpd/kepler-1.1/luaexpat/src /home/temoc/axtls-code1/httpd/kepler-1.1/luazip/src /home/temoc/axtls-code1/httpd/kepler-1.1/luazip/vc7 /home/temoc/axtls-code1/httpd/kepler-1.1/luasql/src /home/temoc/axtls-code1/httpd/kepler-1.1/md5/src /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/XavanteTray /home/temoc/axtls-code1/config/scripts/config/lxdialog /home/temoc/TypeChef-GNUCHeader/x86_64-linux-gnu/4.8/include /home/temoc/TypeChef-GNUCHeader/x86_64-linux-gnu/4.8/include-fixed /home/temoc/TypeChef-GNUCHeader/x86_64-linux-gnu /home/temoc/TypeChef-GNUCHeader/perl-5.30.2 /home/temoc/TypeChef-GNUCHeader/httpd-2.4.43/include /home/temoc/TypeChef-GNUCHeader/apr-1.7.0/include /home/temoc/TypeChef-GNUCHeader/apr-util-1.6.1/include /home/temoc/TypeChef-GNUCHeader/httpd-2.4.43/os/unix /home/temoc/TypeChef-GNUCHeader/usr_include2 /home/temoc/TypeChef-GNUCHeader/usr_include2/mysql /home/temoc/TypeChef-GNUCHeader/usr_include2/oracle/19.6/client /home/temoc/TypeChef-GNUCHeader/usr_include2/postgresql /home/temoc/TypeChef-GNUCHeader/local_include //usr/include; condition: def(CONFIG_WIN32_USE_CRYPTO_LIB)
+/home/temoc/axtls-code1/crypto/crypto_misc.c:42:0: error: File not found: wincrypt.h in .(/home/temoc/axtls-code1/crypto) /home/temoc/axtls-code1 /home/temoc/TypeChef-GNUCHeader/usr_include /home/temoc/axtls-code1/ssl /home/temoc/axtls-code1/crypto /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/mod2 /home/temoc/axtls-code1/httpd/kepler-1.1/luasql/vc6 /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/fastcgi /home/temoc/axtls-code1/httpd /home/temoc/axtls-code1/httpd/kepler-1.1/lua-5.1.2/src /home/temoc/axtls-code1/httpd/kepler-1.1/luasocket-2.0.1/src/compat-5.1r5 /home/temoc/axtls-code1/httpd/kepler-1.1/luazip/vc6 /home/temoc/axtls-code1/httpd/kepler-1.1/luafilesystem/src /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/isapi /home/temoc/axtls-code1/httpd/kepler-1.1/luasocket-2.0.1/src /home/temoc/axtls-code1/config/scripts/config /home/temoc/axtls-code1/httpd/kepler-1.1/luaexpat/src /home/temoc/axtls-code1/httpd/kepler-1.1/luazip/src /home/temoc/axtls-code1/httpd/kepler-1.1/luazip/vc7 /home/temoc/axtls-code1/httpd/kepler-1.1/luasql/src /home/temoc/axtls-code1/httpd/kepler-1.1/md5/src /home/temoc/axtls-code1/httpd/kepler-1.1/launcher/XavanteTray /home/temoc/axtls-code1/config/scripts/config/lxdialog /home/temoc/TypeChef-GNUCHeader/x86_64-linux-gnu/4.8/include /home/temoc/TypeChef-GNUCHeader/x86_64-linux-gnu/4.8/include-fixed /home/temoc/TypeChef-GNUCHeader/x86_64-linux-gnu /home/temoc/TypeChef-GNUCHeader/perl-5.30.2 /home/temoc/TypeChef-GNUCHeader/httpd-2.4.43/include /home/temoc/TypeChef-GNUCHeader/apr-1.7.0/include /home/temoc/TypeChef-GNUCHeader/apr-util-1.6.1/include /home/temoc/TypeChef-GNUCHeader/httpd-2.4.43/os/unix /home/temoc/TypeChef-GNUCHeader/usr_include2 /home/temoc/TypeChef-GNUCHeader/usr_include2/mysql /home/temoc/TypeChef-GNUCHeader/usr_include2/oracle/19.6/client /home/temoc/TypeChef-GNUCHeader/usr_include2/postgresql /home/temoc/TypeChef-GNUCHeader/local_include //usr/include; condition: def(CONFIG_WIN32_USE_CRYPTO_LIB)

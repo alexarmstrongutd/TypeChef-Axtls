@@ -1,0 +1,5 @@
+axssl.o: axssl.c ../../ssl/os_port.h ../../crypto/os_int.h \
+ ../../config/config.h ../../ssl/ssl.h ../../ssl/tls1.h \
+ ../../ssl/version.h ../../ssl/os_port.h ../../crypto/crypto.h \
+ ../../crypto/bigint_impl.h ../../crypto/bigint.h ../../crypto/crypto.h \
+ ../../ssl/crypto_misc.h ../../crypto/bigint.h

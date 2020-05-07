@@ -1,0 +1,31 @@
+#define PREFIX "/usr/local"
+#define CONFIG_VISUAL_STUDIO_7_0_BASE "c:\\Program Files\\Microsoft Visual Studio .NET 2003"
+#define CONFIG_VISUAL_STUDIO_8_0_BASE "c:\\Program Files\\Microsoft Visual Studio 8"
+#define CONFIG_VISUAL_STUDIO_10_0_BASE "c:\\Program Files\\Microsoft Visual Studio 10.0"
+#define CONFIG_EXTRA_CFLAGS_OPTIONS ""
+#define CONFIG_EXTRA_LDFLAGS_OPTIONS ""
+#define CONFIG_SSL_PRIVATE_KEY_LOCATION ""
+#define CONFIG_SSL_PRIVATE_KEY_PASSWORD ""
+#define CONFIG_SSL_X509_CERT_LOCATION ""
+#define CONFIG_SSL_X509_COMMON_NAME ""
+#define CONFIG_SSL_X509_ORGANIZATION_NAME ""
+#define CONFIG_SSL_X509_ORGANIZATION_UNIT_NAME ""
+#define CONFIG_SSL_EXPIRY_TIME 24
+#define CONFIG_X509_MAX_CA_CERTS 150
+#define CONFIG_SSL_MAX_CERTS 3
+#define CONFIG_HTTP_PORT 80
+#define CONFIG_HTTP_HTTPS_PORT 443
+#define CONFIG_HTTP_SESSION_CACHE_SIZE 5
+#define CONFIG_HTTP_WEBROOT "../www"
+#define CONFIG_HTTP_TIMEOUT 300
+#define CONFIG_HTTP_CGI_EXTENSIONS ".lua,.lp,.php"
+#define CONFIG_HTTP_LUA_PREFIX "/usr"
+#define CONFIG_HTTP_CGI_LAUNCHER "/usr/bin/cgi"
+#define CONFIG_HTTP_USER "nobody"
+#define CONFIG_DOT_NET_FRAMEWORK_BASE "c:\\WINDOWS\\Microsoft.NET\\Framework\\v2.0.50727"
+#define CONFIG_JAVA_HOME "c:\\Program Files\\Java\\jdk1.5.0_06"
+#define CONFIG_PERL_CORE "c:\\perl\\lib\\CORE"
+#define CONFIG_PERL_LIB "perl58.lib"
+#define CONFIG_LUA_CORE "/usr/local"
+#define MUL_KARATSUBA_THRESH 20
+#define SQU_KARATSUBA_THRESH 40
