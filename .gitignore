@@ -1,2 +1,4 @@
-*vaa_sumreport.gz
-*vaa_detailreport.gz
+*vaa_sumreport*
+*vaa_detailreport*
+error.txt
+output.txt
