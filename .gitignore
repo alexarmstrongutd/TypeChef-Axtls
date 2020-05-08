@@ -2,3 +2,7 @@
 *vaa_detailreport*
 error.txt
 output.txt
+AXTLS-RESULT
+*.tunit
+*.astimes
+
