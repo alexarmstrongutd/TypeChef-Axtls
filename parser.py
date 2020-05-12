@@ -81,6 +81,8 @@ def processfilename(str):
         str= "Xfree"
     elif str == "DOUBLEFREE":
         str= "Double free"
+    elif str == "DANGLINGSWITCHCODE":
+        str= "Dangling Switch"
     return str
 
 
@@ -107,7 +109,13 @@ def main():
                 elif "_DEGREE_DETAIL" not in line:
                     n+=1
                     continue
+                while n+1 < len(arr) and "_DEGREE_DETAIL" not in arr[n+1]:
+                    n += 1
+                    line += arr[n]
+                    #print(line)
+                line = line.replace(";","")
                 line = line[:-1]
+                #print(line)
                 line = line[:line.index(']')+1] + line[line.index('@'):]
                 line = line.replace("[","")
                 line = line.replace("]"," ")
@@ -124,7 +132,7 @@ def main():
                 val= line.split(" ",5)
                 del val[1]
                 i = 0
-                while i < len(_keys):
+                while i < len(_keys) and len(val) > 1:
                     if i==0:
                         d[ks[i]] = processfilename(val[i])
                     elif i==1:
